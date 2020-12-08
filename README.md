@@ -1,4 +1,4 @@
-# Projektblog-Nr.-2
+# Projektblog 
 
 Projektblog von Frederik Peters und Rebecca Scholz
 
@@ -6,7 +6,7 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [08.12.2020](#einf1)
 
-## Stundenprotokolle
+## Beginn des Projektblogs
 
-[08.12.2020](#1)
+### <a name="einf1"></a> 08.12.2020
 In dieser Stunde werden wir uns damit beschäftigen, Ideen für unser neues Informatikprojekt zu sammeln.
