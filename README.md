@@ -10,6 +10,8 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [11.12.2020](#einf3)
 
+[07.01.2021](#einf4)
+
 ## Beginn des Projektblogs
 
 ### <a name="einf1"></a> 08.12.2020
@@ -20,3 +22,7 @@ Auch heute informieren wir uns weiter über mögliche Programme, mit denen wir u
 
 ### <a name="einf3"></a> 11.12.2020
 In dieser Stunde beschäftigen wir uns weiter mit Greenfoot und entdecken die zahlreichen Funktionen des Programms.
+
+### <a name="einf4"></a> 07.01.2021
+Wir haben uns heute Gedanken darüber gemacht, wie wir unser nächstes Projekt gestalten wollen. Wir haben uns bereits für Greenfoot entschienden und wollen ein Spiel programmieren, bei dem es auf Geschicklichkeit ankommt. Der Spieler soll also die Spielfigur steuern und somit das Ziel des Spiels erfüllen. 
+
