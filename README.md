@@ -45,5 +45,7 @@ Heute haben wir die Greenfoot Bücher bekommen und konnten uns somit die ersten 
 Wir haben uns weiter mit dem Buch und den Funktionen von Greenfoot beschäftigt. Des Weiteren haben wir uns im Internet verschiedene Projekte, die mit Greenfoot programmiert wurden, angesehen, um Ideen für unser eigenes Projekt zu finden.
 
 ### <a name="einf8"></a> 23.01.2021
-Heute planen wir unser Projekt.
+Heute planen wir unser Projekt. Dafür haben wir zunächst ein eigenes Szenario auf Greenfoot erstellt und verschiedene Funktionen ausprobiert. In unserem Szenario hat ein Flusspferd einen Apfel gegessen. Der Quellcode dafür sah wie folgt aus:
+
+
 
