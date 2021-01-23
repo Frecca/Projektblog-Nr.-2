@@ -36,14 +36,14 @@ In dieser Stunde beschäftigen wir uns weiter mit Greenfoot und entdecken die za
 Wir haben uns heute Gedanken darüber gemacht, wie wir unser nächstes Projekt gestalten wollen. Wir haben uns bereits für Greenfoot entschienden und wollen ein Spiel programmieren, bei dem es auf Geschicklichkeit ankommt. Der Spieler soll also die Spielfigur steuern und somit das Ziel des Spiels erfüllen. 
 
 ### <a name="einf5"></a> 11.01.2021
-
+Mit Hilfe der Links von Herrn Buhl haben wir uns erste Szenarien auf Greenfoot angesehen und ausprobiert. Hierzu zählten die Little Crab und die Cat.
 
 ### <a name="einf6"></a> 15.01.2021
-
+Heute haben wir die Greenfoot Bücher bekommen und konnten uns somit die ersten Schritte für die Programmierung mit Greenfoot aneignen. Zunächst haben wir uns einen Überblick über das Buch verschafft und dann einzelne Kapitel durchgelesen.
 
 ### <a name="einf7"></a> 19.01.2021
-
+Wir haben uns weiter mit dem Buch und den Funktionen von Greenfoot beschäftigt. Des Weiteren haben wir uns im Internet verschiedene Projekte, die mit Greenfoot programmiert wurden, angesehen, um Ideen für unser eigenes Projekt zu finden.
 
 ### <a name="einf8"></a> 23.01.2021
-
+Heute planen wir unser Projekt.
 
