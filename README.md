@@ -47,5 +47,9 @@ Wir haben uns weiter mit dem Buch und den Funktionen von Greenfoot beschäftigt.
 ### <a name="einf8"></a> 23.01.2021
 Heute planen wir unser Projekt. Dafür haben wir zunächst ein eigenes Szenario auf Greenfoot erstellt und verschiedene Funktionen ausprobiert. In unserem Szenario hat ein Flusspferd einen Apfel gegessen. Der Quellcode dafür sah wie folgt aus:
 
+![eigenes Szneario](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/Hippo.png)
+
+Danach haben wir uns auf ein Projekt festegelgt, welches wir programmieren möchten. Es handelt sich um ein Spiel für zwei Spieler, die gegeneinander antreten müssen. Das Spiel ist inspiriert an "Teletennis". Wir haben uns einen Überblick darüber verschafft, was wir alles programmieren müssen und wie wir unser Spiel gestalten wollen.
+
 
 
