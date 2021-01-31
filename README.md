@@ -20,6 +20,8 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [23.01.2021](#einf8)
 
+[31.01.2021](einf9)
+
 
 ## Beginn des Projektblogs
 
@@ -51,5 +53,5 @@ Heute planen wir unser Projekt. Dafür haben wir zunächst ein eigenes Szenario 
 
 Danach haben wir uns auf ein Projekt festegelgt, welches wir programmieren möchten. Es handelt sich um ein Spiel für zwei Spieler, die gegeneinander antreten müssen. Das Spiel ist inspiriert an "Teletennis". Wir haben uns einen Überblick darüber verschafft, was wir alles programmieren müssen und wie wir unser Spiel gestalten wollen.
 
-
+### <a name="einf9"></a> 31.01.2021
 
