@@ -63,7 +63,7 @@ Wir haben uns heute Gedanken darüber gemacht, wie wir die nächsten Schritte un
 
 Heute beginnen wir damit, unser Spiel zu programmieren. Wir haben zunächst eine Skizze angefertigt, die die wesentlichen Funktionen und den Ablauf des Spiels beinhaltet. 
 
-![Skizze des Projektes]()
+![Skizze unseres Projektes](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/Skizze.jpg)
 
 Unser Spielfeld ist die World. Wir haben uns hier für einen schwarzen Hintergrund enschieden, der an das Weltall erinnert. Unsere Actor bestehen aus dem Ball und den Playern, Player_1 und Player_2. 
 Die Player haben die Möglichkeit, den Ball mittels Steuerung nach oben und unten abzuwehren und somit zurück zum Gegenspieler zu schießen. Der Ball soll, sobald er die obere oder untere Wand der Welt berührt, abprallen. Dabei beträgt die Größe des Einfallswinkels die Größe des Ausfallswinkels. Berührt der Ball eine Wand hinter einem der Player, so ist dies ein Punkt für den entsprechenden Spieler, da das Ziel des Spiels ist, den Ball nicht auf die Wand auftreffen zu lassen. 
@@ -95,6 +95,6 @@ Außerdem haben wir mit der Programmierung der Steuerung des ersten Spielers Pla
 
 ![Programmierung Player_1](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/Player%201%20descr.png)
 
-
+### <a name="einf11"></a> 01.02.2021
 
 
