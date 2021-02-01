@@ -79,14 +79,24 @@ Unsere einzelnen Actor sehen bislang so aus:
 
 Player 1:
 
-![Bild Player 1]()
+![Bild Player 1](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/Player_1.png)
 
 Player 2:
-[
-![Bild Player 2]()
+
+![Bild Player 2](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/Player_2.png)
 
 Ball:
 
-![Bild Ball]()
+![Bild Ball](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/Ball.png)
+
+Wir müssen in den nächsten Stunden noch die Größen der einzelnen Actor anpassen, da diese noch nicht stimmen. Aktuell sieht das Spielfeld mit allen Actorn so aus:
+
+![aktuelles Bild des Spielfeldes](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/Spielfeld_01.02.2021.png)
+
+Außerdem haben wir mit der Programmierung der Steuerung des ersten Spielers Player_1 begonnen. Wir haben die Bewegungsrichtiung festegelegt. Diese erfolgt senkrecht nach oben und unten über die Pfeiltasten. Bei Player_2 wird mit "W" und "S" gesteuert. Zudem haben wir beim Player_1 die Größe angepasst. Der Editor des ersten Spielers sieht nach heutigem Stand folgendermaßen aus:
+
+![Programmierung Player_1](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/Player%201%20descr.png)
+
+
 
 
