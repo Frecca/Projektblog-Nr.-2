@@ -67,3 +67,26 @@ Bild VON SKIZZE
 
 Unser Spielfeld ist die World. Wir haben uns hier für einen schwarzen Hintergrund enschieden, der an das Weltall erinnert. Unsere Actor bestehen aus dem Ball und den Playern, Player_1 und Player_2. 
 Die Player haben die Möglichkeit, den Ball mittels Steuerung nach oben und unten abzuwehren und somit zurück zum Gegenspieler zu schießen. Der Ball soll, sobald er die obere oder untere Wand der Welt berührt, abprallen. Dabei beträgt die Größe des Einfallswinkels die Größe des Ausfallswinkels. Berührt der Ball eine Wand hinter einem der Player, so ist dies ein Punkt für den entsprechenden Spieler, da das Ziel des Spiels ist, den Ball nicht auf die Wand auftreffen zu lassen. 
+Die Skizze unseres Projektes sieht folgendermaßen aus:
+
+![Skizze des Projekts](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/Skizze_Informatik.pdf)
+
+In Greenfoot haben wir die World und die Actor erstellt. 
+
+![World und Actor](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/World%20and%20Actors.png)
+
+Unsere einzelnen Actor sehen bislang so aus:
+
+Player 1:
+
+![Bild Player 1]()
+
+Player 2:
+[
+![Bild Player 2]()
+
+Ball:
+
+![Bild Ball]()
+
+
