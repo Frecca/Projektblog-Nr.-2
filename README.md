@@ -20,7 +20,9 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [23.01.2021](#einf8)
 
-[31.01.2021](einf9)
+[31.01.2021](#einf9)
+
+[01.02.2021](#einf10)
 
 
 ## Beginn des Projektblogs
@@ -55,3 +57,8 @@ Danach haben wir uns auf ein Projekt festegelgt, welches wir programmieren möch
 
 ### <a name="einf9"></a> 31.01.2021
 
+Wir haben uns heute Gedanken darüber gemacht, wie wir die nächsten Schritte unseres Projektes angehen. Wir wollen zunächst auf Greenfoot die World erstellen, also den Hintergrund unseres Spieles erstellen. Wenn das Spielfeld fertiggestellt ist, können wir mit den Spielfiguren und deren Programmierung fortfahren. Morgen wollen wir die World programmieren.
+
+### <a name="einf10"></a> 01.02.2021
+
+Heute beginnen wir damit, die World zu programmieren. 
