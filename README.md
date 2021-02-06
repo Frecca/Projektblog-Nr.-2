@@ -99,9 +99,9 @@ Außerdem haben wir mit der Programmierung der Steuerung des ersten Spielers Pla
 
 ### <a name="einf11"></a> 06.02.2021
 
-Beim letzten Mal hatten wir nach dem Speichern das Problem, dass der PLayer_1 sich nicht mehr bewegen lassen hat und immer eine Fehlermeldung kam. Auf Grund dessen konnte kein Spieler mehr gesteuert werden. Wir haben heute den Fehler gefunden: Die Länge des Player_1 war so weit dezimiert, dass er nicht mehr existiert hat. Wir haben die Größeneinstellung geändert. 
+Beim letzten Mal hatten wir nach dem Speichern das Problem, dass der Player_1 sich nicht mehr bewegen lassen hat und immer eine Fehlermeldung kam. Auf Grund dessen konnte kein Spieler mehr gesteuert werden. Wir haben heute den Fehler gefunden: Die Länge des Player_1 war so weit dezimiert, dass er nicht mehr existiert hat. Wir haben die Größeneinstellung geändert. 
 Nach dieser Fehlerbehebung haben wir die Größen von Player_1 und Player_2 angepasst und den Ball auf eine passende Größe minimiert. 
-Des Weiteren haben wir eine neue Actorklasse eingefügt, die Goals, also den Bereich, der die Tore der Spieler darstellt. Diese sind farblich passend zum Spieler markiert, sodass die Zuordnung leicht erfolgen kann. In dem Code unserer Welt haben wir die Player_1, PLayer_2, den Ball, und die beiden Goals eingefügt, sodass diese schon von Beginn an in der Welt, also auf dem Spielfeld erscheinen. 
+Des Weiteren haben wir eine neue Actorklasse eingefügt - die Goals, also den Bereich, der die Tore der Spieler darstellt. Diese sind farblich passend zum Spieler markiert, sodass die Zuordnung leicht erfolgen kann. In dem Code unserer Welt haben wir die Player_1, Player_2, den Ball, und die beiden Goals eingefügt, sodass diese schon von Beginn an in der Welt, also auf dem Spielfeld erscheinen. 
 
 Das Spielfeld sieht im Ruhezustand folgendermaßen aus:
 
