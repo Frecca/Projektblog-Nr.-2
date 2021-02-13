@@ -135,3 +135,13 @@ Des Weiteren haben wir die Zurücksetzung des Balls programmiert, falls dieser e
 
 Während unserer Suche nach einem geeigneten Befehl für die Ballbewegung, ist uns durch die Recherche im Buch und in Foren aufgefallen, dass es sinnvoller wäre, wenn wir die Aktionen nicht von den Actorn ausführen lassen, sondern diese in unserer Welt programmieren. Dies bedeutet, dass für den Ball keine aktive Bewegung definiert wird, sondern durch Variablen und setLocation die Bewegung des Balls entsteht. 
 Dafür haben wir ein neues Szenario erstellt und unsere bereits existierenden Actor eingefügt. Die Position der Spieler ist nun etwas verändert und wir werden auf Grund der neuen Programmiermethode auf die Goals verzichten können. Die Bewegung des Balles splitten wir in die horizontale X-Komponente und vertikale Y-Komponente auf, weshalb die Bewegung durch Veränderung einer Variable erzeugen. Die X-Variable dx ist konstant, jedoch verändert sich je nach Bewegungsrichtung das Vorzeichen. Die Y-Variable dy soll sich je nach Interaktion des Balles mit den Spielern verändern, hier findet ein  Vorzeichenwechsel bei Berührung der oberen und unteren Wand statt.
+
+Das aktuelle Spielfeld mit den geänderten Positionen sieht so aus:
+
+![neues Spielfeld](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/c_neues%20Spielfeld.png)
+
+Die neuen Programmierungen in unserer Welt lauten folgerndermaßen:
+
+![neue Programmierung](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/d.png)
+![neue Programmierung](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/e.png)
+
