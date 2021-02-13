@@ -127,4 +127,6 @@ Außerdem haben wir uns einen Überblick darüber verschafft, was wir noch alles
 
 Wir haben damit angefangen, unseren Ball zu überarbeiten und haben ein neues Bild eingefüt. Das Spielfeld sieht durch diese Änderung wie folgt aus:
 
-![Änderung des Balls]()
+![Änderung des Balls](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/a_neuer%20Ball.png)
+
+Des Weiteren
