@@ -26,6 +26,8 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [06.02.2021](#einf11)
 
+[13.02.2021](#einf12)
+
 
 ## Beginn des Projektblogs
 
@@ -121,4 +123,8 @@ Um unsere Programmierungen übersichtlicher zu gestalten, haben wir damit begonn
 
 Außerdem haben wir uns einen Überblick darüber verschafft, was wir noch alles programmieren müssen, um unser Spiel funktionsfähig zu machen. Darunter zählen die Programmierung der Spieler, die den Ball abwehren respektive schießen sollen sowie die Programmierung der Goals. Sobald der Ball ein Goal berührt, soll dieser zurück an den Spielanfang gesetzt werden. Am größten wird der Programmierumfang des Balls. Bei diesem müssen wir sowohl die Ballgeschwindigkeit und eine zufällige Bewegung programmieren als auch die Interaktionen mit den Spielern, Goals und übrigen Wänden. Hierunter fallen der Abprallwinkel und die Zurücksetzung an die Startposition.
 
+### <a name="einf12"></a> 13.02.2021
 
+Wir haben damit angefangen, unseren Ball zu überarbeiten und haben ein neues Bild eingefüt. Das Spielfeld sieht durch diese Änderung wie folgt aus:
+
+![Änderung des Balls]()
