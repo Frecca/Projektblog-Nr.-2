@@ -149,11 +149,35 @@ Die neuen Programmierungen in unserer Welt lauten folgerndermaßen:
 
 ### <a name="einf13"></a> 20.02.2021
 
+Heute haben wir die Grundprogrammierung unseres Spiels fertiggestellt. Begonnen haben wir mit der Programmierung des Balls und haben uns hierzu unserer, in der letzten Stunde eingefügten, Variablen bedient. Des Weiteren haben wir neue Codes wie "&&" und ">=" und "<=" verwendet. 
 
+Wenn der Ball einen der Player_1 oder Player_2 berührt, prallt dieser in einem bestimmten Winkel, abhängig von der Position des Players ab.
+Die Programmierung hierzu ist:
 
+![Ball berührt die Player](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/b.png)
 
+Wenn der Ball die obere oder untere Kante des Spielfeldes, also des Courts berührt, so prallt er auch hier in einem bestimmten Winkel ab. Hier gilt Einfallswinkel gleich Ausfallswinkel:
 
+![Ball berührt obere oder untere Kante](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/c.png)
 
-- ballspeed, spieler speed, was wenn ball spieler, wände rl, wände uo berührt, zurücksetzen, warten
+Berührt der Ball jedoch die Zone hinter einem der Player, so wird er in die Spielmitte zurückgesetzt.
+Um den Spielfluss gut aufrecht erhalten zu können, haben wir in dieser Phase des Zurücksetzens eine Wartezeit integriert.
 
-optionen zum erweitern
+![Zurücksetzen des Balls]() !!!!!!!!!!!!!
+
+Nach diesen Programmierungen haben wir unser Spiel ausprobiert und dann die Ballgeschwindigkeit und die Spielergeschwindigkeit erhöht, damit das ganze Spiel schneller und spannender wird.
+
+Die Ballgeschwindgkeit haben wir mittels der "dx"- Koordinate variiert:
+
+![Ballgeschwindigkeit](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/speed%20ball.png)
+
+Die Spielergeschwindigkeit haben wir über die Schrittgröße variiert:
+
+![Spielergeschwindigkeit]()
+
+Eine mögliche Spielsituation, nachdem der Ball von einem der Player gespielt wurde und von der Wand abgeprallt ist, könnte folgendermaßen aussehen:
+
+![mögliche Spielsituation](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/a.png)
+
+Da die Grundprogrammierung nun abgeschlossen ist, wollen wir unser Spiel durch ein paar Extrafunktionen erweitern. Man könnte beispielsweise einen Counter oder Soundeffekte einfügen sowie die Ballgeschwindigekit im Verlauf des Spiels erhöhen oder die Spieler im Wechsel beginnen lassen, bzw. abhängig davon, wer als letztes einen Punkt gemacht hat.
+
