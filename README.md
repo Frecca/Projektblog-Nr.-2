@@ -28,6 +28,8 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [13.02.2021](#einf12)
 
+[20.02.2021](#einf13)
+
 
 ## Beginn des Projektblogs
 
@@ -145,3 +147,13 @@ Die neuen Programmierungen in unserer Welt lauten folgerndermaßen:
 ![neue Programmierung](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/d.png)
 ![neue Programmierung](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/e.png)
 
+### <a name="einf13"></a> 20.02.2021
+
+
+
+
+
+
+- ballspeed, spieler speed, was wenn ball spieler, wände rl, wände uo berührt, zurücksetzen, warten
+
+optionen zum erweitern
