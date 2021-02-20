@@ -163,7 +163,7 @@ Wenn der Ball die obere oder untere Kante des Spielfeldes, also des Courts berü
 Berührt der Ball jedoch die Zone hinter einem der Player, so wird er in die Spielmitte zurückgesetzt.
 Um den Spielfluss gut aufrecht erhalten zu können, haben wir in dieser Phase des Zurücksetzens eine Wartezeit integriert.
 
-![Zurücksetzen des Balls]() !!!!!!!!!!!!!
+![Zurücksetzen des Balls](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/d.png)
 
 Nach diesen Programmierungen haben wir unser Spiel ausprobiert und dann die Ballgeschwindigkeit und die Spielergeschwindigkeit erhöht, damit das ganze Spiel schneller und spannender wird.
 
@@ -173,7 +173,7 @@ Die Ballgeschwindgkeit haben wir mittels der "dx"- Koordinate variiert:
 
 Die Spielergeschwindigkeit haben wir über die Schrittgröße variiert:
 
-![Spielergeschwindigkeit]()
+![Spielergeschwindigkeit](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/speed%20player.png)
 
 Eine mögliche Spielsituation, nachdem der Ball von einem der Player gespielt wurde und von der Wand abgeprallt ist, könnte folgendermaßen aussehen:
 
