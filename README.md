@@ -30,6 +30,7 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [20.02.2021](#einf13)
 
+[27.02.2021](#einf14)
 
 ## Beginn des Projektblogs
 
@@ -180,4 +181,10 @@ Eine mögliche Spielsituation, nachdem der Ball von einem der Player gespielt wu
 ![mögliche Spielsituation](https://raw.githubusercontent.com/Frecca/Projektblog-Nr.-2/main/a.png)
 
 Da die Grundprogrammierung nun abgeschlossen ist, wollen wir unser Spiel durch ein paar Extrafunktionen erweitern. Man könnte beispielsweise einen Counter oder Soundeffekte einfügen sowie die Ballgeschwindigekit im Verlauf des Spiels erhöhen oder die Spieler im Wechsel beginnen lassen, bzw. abhängig davon, wer als letztes einen Punkt gemacht hat.
+
+### <a name="einf14"></a> 27.02.2021
+
+
+
+
 
