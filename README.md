@@ -191,4 +191,4 @@ Wir haben uns heute darüber informiert, wie man unser Spiel noch mit weiteren F
 ### <a name="einf15"></a> 01.03.2021
 
 
-
+ggf. - 20 zu  mal 0,8 ändern 
