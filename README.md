@@ -32,6 +32,8 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [27.02.2021](#einf14)
 
+[01.03.2021](#einf15)
+
 ## Beginn des Projektblogs
 
 ### <a name="einf1"></a> 08.12.2020
@@ -184,7 +186,9 @@ Da die Grundprogrammierung nun abgeschlossen ist, wollen wir unser Spiel durch e
 
 ### <a name="einf14"></a> 27.02.2021
 
+Wir haben uns heute darüber informiert, wie man unser Spiel noch mit weiteren Funktionen ausschmücken könnten. Aus diesem Grund haben wir uns angeschaut, wie man Sounds einfügen kann. Dies wollen wir in den nächsten Stunden programmieren. Wir werden dann überlegen, ob wir verschiedene Sounds bei der Ballberührung durch die Spieler, bei der Ballberührung mit den Wänden und bei der Ballberührung bei der Zurücksetzung des Balls verwenden. 
 
+### <a name="einf15"></a> 01.03.2021
 
 
 
