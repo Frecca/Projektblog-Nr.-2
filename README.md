@@ -34,10 +34,13 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [01.03.2021](#einf15)
 
+[04.03.2021](#einf16)
+
 TO DO:
 - Projektseite
 - Projekt optimieren
     - get Height mit Varibable kleiner 0 und nicht mit Minus
+- je länger Spieldauer, desto schneller die Ballbewegung
 
 ## Beginn des Projektblogs
 
@@ -196,4 +199,8 @@ Wir haben uns heute darüber informiert, wie man unser Spiel noch mit weiteren F
 ### <a name="einf15"></a> 01.03.2021
 
 Heute waren wir wieder in der Schule und haben Zwischenstand besprochen. Wir haben uns einmal einen Überblick darüber verschafft, was wir noch programmieren möchten und was wir noch alles bis zur Projektabgabe erledigen wollen. 
-ggf. - 20 zu  mal 0,8 ändern 
+
+### <a name="einf16"></a> 04.03.2021
+
+
+
