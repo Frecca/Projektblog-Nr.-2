@@ -36,6 +36,9 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [04.03.2021](#einf16)
 
+[05.03.2021](#einf17)
+
+
 TO DO:
 - Projektseite
 - Projekt optimieren
@@ -202,5 +205,8 @@ Heute waren wir wieder in der Schule und haben Zwischenstand besprochen. Wir hab
 
 ### <a name="einf16"></a> 04.03.2021
 
+Wir haben heute mit Herrn Buhl Rücksprache gehalten bezüglich der Programmierung unseres Programmes. Dabei hat er uns Hinweise gegeben, was wir in der Art der Programmierung verändern müssen. Wir wollen die Programmierung, die im Court ist, auf die Spieler übertragen, sodass diese vom Court unabhängig ist und nicht mehr *public*, sondern *private* ist.
 
+### <a name="einf17"></a> 05.03.2021
 
+Gestern haben wir bereits damit angefangen, die Programmierung zu verändern und werden an dieser Stelle heute weiter machen.
