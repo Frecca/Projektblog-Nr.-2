@@ -218,9 +218,9 @@ Für die Spieler haben wir zunächst die Steuerung über den *private String upk
 
 Die Programmierung hierzu sieht wir folgt aus:
 
+![Programmierung im Court](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/Player_01.PNG)
 
-
-
+![Programmierung der Actor Player](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/Player_1.PNG)
 
 ### <a name="einf18"></a> 11.03.2021
 
