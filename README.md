@@ -227,4 +227,6 @@ Die Programmierung hierzu sieht wir folgt aus:
 
 ### <a name="einf18"></a> 11.03.2021
 
+Auch heute beschäftigen wir uns weiterhin mit den Änderungen der Programmierung der Player, des *Balls* und des *Courts*. Es geht heute um die Variablen, die die Ballbewegung steuern.
+
 Ball, Actor
