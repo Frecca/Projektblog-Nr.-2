@@ -38,12 +38,14 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [05.03.2021](#einf17)
 
+[11.03.2021](#einf18)
 
 TO DO:
 - Projektseite
 - Projekt optimieren
     - get Height mit Varibable kleiner 0 und nicht mit Minus
 - je länger Spieldauer, desto schneller die Ballbewegung
+- aktuelle Bilder aller Änderungen in der Programmierung
 
 ## Beginn des Projektblogs
 
@@ -209,4 +211,17 @@ Wir haben heute mit Herrn Buhl Rücksprache gehalten bezüglich der Programmieru
 
 ### <a name="einf17"></a> 05.03.2021
 
-Gestern haben wir bereits damit angefangen, die Programmierung zu verändern und werden an dieser Stelle heute weiter machen.
+Gestern haben wir bereits damit angefangen, die Programmierung zu verändern und werden an dieser Stelle heute weiter machen. Angefangen haben wir damit, die Namen der Actor mit den Vorgaben von Greenfoot konform zu gestalten. Dafür haben wir alle Actor und unsere World am Anfang mit einem Großbuchstaben benannt und die Unterstriche alterniert. Die Player heißen nun *PlayerRed* und *PlayerBlue* und wir haben nur noch eine Actorclass der Player, sodass wir dann innerhalb dieser Class zwischen den beiden Playern differenzieren. Unser Ball heißt nun *Ball* und die World, also der Spielhintergrund, heißt *Court*. 
+
+Des Weiteren beginnen wir nun damit die Programmierungen, die bislang alle im Court lokalisiert sind, auf die einzelnen Actor zu übertragen, sodass die Bewegungen unabhängig voneinander sind und einzeln und getrennt voneinander agieren können. Die Actor agieren dann mit dieser Programmierweise untereinander mittels Fragen. 
+Für die Spieler haben wir zunächst die Steuerung über den *private String upkey* und *downkey* definiert. Im Court haben wir dazu den Befehl der Tastensteuerung eingefügt, sodass man den einen Spieler über die Pfeiltasten *up* und *down* und den anderen Spieler mittels *w* und *s* bewegen kann. 
+
+Die Programmierung hierzu sieht wir folgt aus:
+
+
+
+
+
+### <a name="einf18"></a> 11.03.2021
+
+Ball, Actor
