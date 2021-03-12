@@ -40,6 +40,8 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [11.03.2021](#einf18)
 
+[12.03.2021](#einf19)
+
 TO DO:
 - Projektseite
 - Projektblog
@@ -230,3 +232,7 @@ Die Programmierung hierzu sieht wir folgt aus:
 Auch heute beschäftigen wir uns weiterhin mit den Änderungen der Programmierung der Player, des *Balls* und des *Courts*. Es geht heute um die Variablen, die die Ballbewegung steuern.
 
 Ball, Actor
+
+### <a name="einf19"></a> 12.03.2021
+
+Heute haben wir die Anpassung des Projektes fertiggestellt. Wir haben nun die Variablen *dx* und *dy* für die Ballbewewgung auf *private* geändert. Es ist also nur noch dem Ball möglich, auf diese zuzugreifen oder zu ändern. 
