@@ -44,6 +44,10 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [16.03.2021](#einf20)
 
+[18.03.2021](#einf21)
+
+[19.03.2021](#einf22)
+
 TO DO:
 - Projektseite
 - Projektblog
@@ -239,3 +243,6 @@ Heute haben wir die Anpassung des Projektes weiter fertiggestellt. Wir haben nun
 
 ### <a name="einf20"></a> 16.03.2021
 
+### <a name="einf21"></a> 18.03.2021
+
+### <a name="einf22"></a> 19.03.2021
