@@ -314,7 +314,7 @@ Als lezten Teil des Spiels haben wir die Erhöhung des Scores durch das Ausführ
 
 Danach haben wir alles bündig eingerückt und übersichtlich gestaltet. Zudem haben wir Kommentierungen eingefügt. Das fertiggstellte Spiel sieht kurz nach Spielbeginn so aus:
 
-![Fertiger Court]()
+![Fertiger Court](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/finished.png)
 
 ### <a name="einf27"></a> 09.04.2021
 
