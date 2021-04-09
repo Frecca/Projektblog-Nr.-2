@@ -1,4 +1,4 @@
-# Projektblog 
+# Projektblog zu "Pong Together!"
 
 Projektblog von Frederik Peters und Rebecca Scholz
 
