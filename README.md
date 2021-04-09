@@ -251,43 +251,58 @@ Heute haben wir die Anpassung des Projektes weiter fertiggestellt. Wir haben nun
 ### <a name="einf20"></a> 16.03.2021
 
 In der heutigen Stunde haben wir den Ball etwas anders konstruiert, er zeichnet sich nun zu Beginn selbst mit den folgenden Befehlen:
-BILD Zeichnung
+
+![Ball Zeichnung](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/Zeichnung%20Ball%201.png)
 
 ### <a name="einf21"></a> 18.03.2021
 
 Wir haben nach Rücksprache mit Herrn Buhl beschlossen, die Ballbewegung ohne Variablen zu programmieren. Hierzu dreht der Ball sich und bewegt sich immer in seine Zielrichtung. Der Ball rotiert und bewegt sich mit der von uns eingeführten Geschwindigkeit *speed*. Die Startrichtung erfolgt zufällig mit der folgenden Programmierung:
-BILD Speed 1, 2
+
+![Ballgeschwindigkeit](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/speed.png)
+![Ballgeschwindigkeit](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/speed%202.png)
 
 ### <a name="einf22"></a> 19.03.2021
 
 Nun zeichnen auch die Player sich selbst. 
-BILD court und Zeichnung py
+
+![Zeichnung Player](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/zeichnung%20py.png)
+![Größe der Player](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/zeichnung%20py%202.png)
+![Court mit Playern](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/court.png)
 
 Des Weiteren haben wir auch eine Scorekeeper Klasse erstellt. In unserem Spiel soll oben eine *Score* Anzeige eingeblendet werden. Hierzu haben wir uns Gedanken gemacht, wie dies zu programmieren ist. 
 Mit der Hilfe von Herrn Buhl haben wir eine Verbindung vom Ball zum Scorekeeper hergestellt. Der Ball soll eine Nachricht an den Scorekeeper übermitteln, sobald ein Punkt erzielt wird. Der Score erhöht sich dementsprechend im seiner Punktzahl. 
 Insgesamt haben wir nun folgende Klassen in unserem Spiel: 
-BILD klassen
+
+![alles Klassen](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/klassen.png)
+
 Die Verbindungen vom Ball zum Scorekeeper werden im Court festgelgt und auch beim Ball definiert.
-BILD court abll sk
-Bild Ball sk
+
+![Verbindungen im Court](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/court%20sk%20ball.png)
+![Ball und Scorekeeper](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/ball%20sk.png)
 
 ### <a name="einf23"></a> 23.03.2021
 
 Um den Schwierigkeitsgrad des Spiels zu erhöhen, wollen wir die Geschwindigkeit des Balls erhöhen, sobald dieser eine Player Class berührt. Hierfür nutzen wir folgende Programmierung:
-BILD Speed faster
+
+![Erhöhung der Geschwindigkeit](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/speed%20faster.png)
+
 Außerdem haben wir für die Übermittlung der Nachricht an den Scorekeeper einen Boolean definiert. Es wird eine Nachricht verschickt, sobald der Ball sich zwischen einem Spieler und der Außenwand befindet, sodass dieser sich im "Aus" befindet und der Gegenspieler einen Punkt erzielt. Der Scorekeeper erhöht dann den entsprechenden Punktestand.
-BILD Boolean
+
+![Boolean](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/boolean.png)
 
 ### <a name="einf24"></a> 25.03.2021
 
 In der heutigen Stunde haben wir programmiert was passiert, wenn der boolean wahr bzw. falsch ist. Wenn der boolean wahr ist, wird der Ball auf die Startposition zurückgesetzt und es wird ein *Delay* eingefügt, sodass eine kurze Pause vor der erneuten Ballbewegung entsteht. Zusätzlich wird an den Scorekeeper eine Nachricht übermittelt, sodass dieser entweder die Methode *ScoreRight* oder *ScoreLeft* ausführt.
-BILD ScoreR/L
+
+![Boolean](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/scoreR_L.png)
+
 Wir hatten hier Probleme bei der Programmierung, da keine Nachricht versendet wurde. Daraufhin haben wir nach Recherche im Buch und Internet die Schreibweise " == true" verwendet. 
 
 ### <a name="einf25"></a> 26.03.2021
 
 Heute haben wir die Programmierung des Scorekeepers angefangen. Begonnen haben wir damit, diesen in das Spielfeld zu setzen - hierbei gab es viele Probleme. Dazu zählten, dass der Score nicht angezeigt wurde und sich auch nicht verändert hat. Letztendlich haben wir es dann mit dieser Programmierung geschafft:
-BILD Scorekeeper 0 
+
+![Scorekeeper](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/sk%200.png)
 
 Wie man hier sehen kann, wird zu Beginn des Spiels im Score die Zahl *0* angezeigt. Der Score zeigt sich, sobald die Act-Methode ausgeführt wird. Wir haben die Ideen unseren Spiels verändert. Nun spielen die Player nicht mehr gegeneinander, sondern miteinander und versuchen einen möglichst kleinen "Fail-Score" zu erreichen. Der Ball darf also nicht in den Raum hinter die Spieler eintreten, da sich sonst der Score erhöht. 
 
@@ -295,11 +310,11 @@ Wie man hier sehen kann, wird zu Beginn des Spiels im Score die Zahl *0* angezei
 
 Als lezten Teil des Spiels haben wir die Erhöhung des Scores durch das Ausführen des Scorekeepers von *ScoreLeft* und *ScoreRight* programmiert, sodass nun alles stimmig ist.
 
-BILD ausführungen sk lr
+![Erhöhung des Scores](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/ausf%C3%BChrungen%20score%20left%20und%20right.png)
 
 Danach haben wir alles bündig eingerückt und übersichtlich gestaltet. Zudem haben wir Kommentierungen eingefügt. Das fertiggstellte Spiel sieht kurz nach Spielbeginn so aus:
 
-BILD finished
+![Fertiger Court]()
 
 ### <a name="einf27"></a> 09.04.2021
 
