@@ -56,15 +56,14 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [03.04.2021](#einf26)
 
+[09.04.2021](#einf27)
+
+
 TO DO:
 - Projektseite
 - Projektblog
-- Projekt optimieren
-    - get Height mit Varibable kleiner 0 und nicht mit Minus
-- je länger Spieldauer, desto schneller die Ballbewegung
 - aktuelle Bilder aller Änderungen in der Programmierung
 - Kommentierungen
-- saubere, eingerückte Programmierung auf Greenfoot
 
 ## Beginn des Projektblogs
 
@@ -251,6 +250,8 @@ Heute haben wir die Anpassung des Projektes weiter fertiggestellt. Wir haben nun
 
 ### <a name="einf20"></a> 16.03.2021
 
+Wir 
+
 ### <a name="einf21"></a> 18.03.2021
 
 ### <a name="einf22"></a> 19.03.2021
@@ -263,3 +264,6 @@ Heute haben wir die Anpassung des Projektes weiter fertiggestellt. Wir haben nun
 
 ### <a name="einf26"></a> 03.04.2021
 
+### <a name="einf27"></a> 09.04.2021
+
+Heute optimieren wir unseren Projektblog und schreiben unsere Projektseite.
