@@ -59,12 +59,6 @@ Projektblog von Frederik Peters und Rebecca Scholz
 [09.04.2021](#einf27)
 
 
-TO DO:
-- Projektseite
-- Projektblog
-- aktuelle Bilder aller Änderungen in der Programmierung
-- Kommentierungen
-
 ## Beginn des Projektblogs
 
 ### <a name="einf1"></a> 08.12.2020
@@ -77,7 +71,7 @@ Auch heute informieren wir uns weiter über mögliche Programme, mit denen wir u
 In dieser Stunde beschäftigen wir uns weiter mit Greenfoot und entdecken die zahlreichen Funktionen des Programms.
 
 ### <a name="einf4"></a> 07.01.2021
-Wir haben uns heute Gedanken darüber gemacht, wie wir unser nächstes Projekt gestalten wollen. Wir haben uns bereits für Greenfoot entschienden und wollen ein Spiel programmieren, bei dem es auf Geschicklichkeit ankommt. Der Spieler soll also die Spielfigur steuern und somit das Ziel des Spiels erfüllen. 
+Wir haben uns heute Gedanken darüber gemacht, wie wir unser nächstes Projekt gestalten wollen. Wir haben uns bereits für Greenfoot entschieden und wollen ein Spiel programmieren, bei dem es auf Geschicklichkeit ankommt. Der Spieler soll also die Spielfigur steuern und somit das Ziel des Spiels erfüllen. 
 
 ### <a name="einf5"></a> 11.01.2021
 Mit Hilfe der Links von Herrn Buhl haben wir uns erste Szenarien auf Greenfoot angesehen und ausprobiert. Hierzu zählten die Little Crab und die Cat.
@@ -225,7 +219,7 @@ Heute waren wir wieder in der Schule und haben Zwischenstand besprochen. Wir hab
 
 ### <a name="einf16"></a> 04.03.2021
 
-Wir haben heute mit Herrn Buhl Rücksprache gehalten bezüglich der Programmierung unseres Programmes. Dabei hat er uns Hinweise gegeben, was wir in der Art der Programmierung verändern müssen. Wir wollen die Programmierung, die im Court ist, auf die Spieler übertragen, sodass diese vom Court unabhängig ist und nicht mehr *public*, sondern *private* ist.
+Wir haben heute mit Herrn Buhl Rücksprache gehalten bezüglich der Programmierung unseres Programmes. Dabei hat er uns Hinweise gegeben, was wir in der Art der Programmierung verändern müssen. Wir wollen die Programmierung, die im Court ist, auf die Spieler übertragen, sodass diese vom Court unabhängig ist und nicht mehr *public*, sondern *private* ist. Aus diesem Grund unterlassen wird das Programmieren von Soundeffekten.
 
 ### <a name="einf17"></a> 05.03.2021
 
@@ -250,32 +244,32 @@ Heute haben wir die Anpassung des Projektes weiter fertiggestellt. Wir haben nun
 
 ### <a name="einf20"></a> 16.03.2021
 
-In der heutigen Stunde haben wir den Ball etwas anders konstruiert, er zeichnet sich nun zu Beginn selbst mit den folgenden Befehlen:
+In der heutigen Stunde haben wir den *Ball* etwas anders konstruiert, er zeichnet sich nun zu Beginn selbst mit den folgenden Befehlen:
 
 ![Ball Zeichnung](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/Zeichnung%20Ball%201.png)
 
 ### <a name="einf21"></a> 18.03.2021
 
-Wir haben nach Rücksprache mit Herrn Buhl beschlossen, die Ballbewegung ohne Variablen zu programmieren. Hierzu dreht der Ball sich und bewegt sich immer in seine Zielrichtung. Der Ball rotiert und bewegt sich mit der von uns eingeführten Geschwindigkeit *speed*. Die Startrichtung erfolgt zufällig mit der folgenden Programmierung:
+Wir haben nach Rücksprache mit Herrn Buhl beschlossen, die Ballbewegung ohne Variablen zu programmieren. Hierzu dreht der *Ball* sich und bewegt sich immer in seine Zielrichtung. Der Ball rotiert und bewegt sich mit der von uns eingeführten Geschwindigkeit *speed*. Die Startrichtung erfolgt zufällig mit der folgenden Programmierung:
 
 ![Ballgeschwindigkeit](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/speed.png)
 ![Ballgeschwindigkeit](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/speed%202.png)
 
 ### <a name="einf22"></a> 19.03.2021
 
-Nun zeichnen auch die Player sich selbst. 
+Nun zeichnen auch die *Player* sich selbst. 
 
 ![Zeichnung Player](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/zeichnung%20py.png)
 ![Größe der Player](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/zeichnung%20py%202.png)
 ![Court mit Playern](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/court.png)
 
 Des Weiteren haben wir auch eine Scorekeeper Klasse erstellt. In unserem Spiel soll oben eine *Score* Anzeige eingeblendet werden. Hierzu haben wir uns Gedanken gemacht, wie dies zu programmieren ist. 
-Mit der Hilfe von Herrn Buhl haben wir eine Verbindung vom Ball zum Scorekeeper hergestellt. Der Ball soll eine Nachricht an den Scorekeeper übermitteln, sobald ein Punkt erzielt wird. Der Score erhöht sich dementsprechend im seiner Punktzahl. 
+Mit der Hilfe von Herrn Buhl haben wir eine Verbindung vom *Ball* zum *Scorekeeper* hergestellt. Der Ball soll eine Nachricht an den *Scorekeeper* übermitteln, sobald ein Punkt erzielt wird. Der Score erhöht sich dementsprechend im seiner Punktzahl. 
 Insgesamt haben wir nun folgende Klassen in unserem Spiel: 
 
 ![alles Klassen](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/klassen.png)
 
-Die Verbindungen vom Ball zum Scorekeeper werden im Court festgelgt und auch beim Ball definiert.
+Die Verbindungen vom *Ball* zum *Scorekeeper* werden im Court festgelgt und auch beim *Ball* definiert.
 
 ![Verbindungen im Court](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/court%20sk%20ball.png)
 ![Ball und Scorekeeper](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/ball%20sk.png)
@@ -286,25 +280,25 @@ Um den Schwierigkeitsgrad des Spiels zu erhöhen, wollen wir die Geschwindigkeit
 
 ![Erhöhung der Geschwindigkeit](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/speed%20faster.png)
 
-Außerdem haben wir für die Übermittlung der Nachricht an den Scorekeeper einen Boolean definiert. Es wird eine Nachricht verschickt, sobald der Ball sich zwischen einem Spieler und der Außenwand befindet, sodass dieser sich im "Aus" befindet und der Gegenspieler einen Punkt erzielt. Der Scorekeeper erhöht dann den entsprechenden Punktestand.
+Außerdem haben wir für die Übermittlung der Nachricht an den Scorekeeper einen Boolean definiert. Es wird eine Nachricht verschickt, sobald der *Ball* sich zwischen einem Spieler und der Außenwand befindet, sodass dieser sich im "Aus" befindet und der Gegenspieler einen Punkt erzielt. Der Scorekeeper erhöht dann den entsprechenden Punktestand.
 
 ![Boolean](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/boolean.png)
 
 ### <a name="einf24"></a> 25.03.2021
 
-In der heutigen Stunde haben wir programmiert was passiert, wenn der boolean wahr bzw. falsch ist. Wenn der boolean wahr ist, wird der Ball auf die Startposition zurückgesetzt und es wird ein *Delay* eingefügt, sodass eine kurze Pause vor der erneuten Ballbewegung entsteht. Zusätzlich wird an den Scorekeeper eine Nachricht übermittelt, sodass dieser entweder die Methode *ScoreRight* oder *ScoreLeft* ausführt.
+In der heutigen Stunde haben wir programmiert was passiert, wenn der Boolean wahr bzw. falsch ist. Wenn der Boolean wahr ist, wird der Ball auf die Startposition zurückgesetzt und es wird ein *Delay* eingefügt, sodass eine kurze Pause vor der erneuten Ballbewegung entsteht. Zusätzlich wird an den Scorekeeper eine Nachricht übermittelt, sodass dieser entweder die Methode *ScoreRight* oder *ScoreLeft* ausführt.
 
 ![Boolean](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/scoreR_L.png)
 
-Wir hatten hier Probleme bei der Programmierung, da keine Nachricht versendet wurde. Daraufhin haben wir nach Recherche im Buch und Internet die Schreibweise " == true" verwendet. 
+Wir hatten hier Probleme bei der Programmierung, da keine Nachricht versendet wurde. Daraufhin haben wir nach Recherche im Buch und im Internet die Schreibweise " == true" verwendet. 
 
 ### <a name="einf25"></a> 26.03.2021
 
-Heute haben wir die Programmierung des Scorekeepers angefangen. Begonnen haben wir damit, diesen in das Spielfeld zu setzen - hierbei gab es viele Probleme. Dazu zählten, dass der Score nicht angezeigt wurde und sich auch nicht verändert hat. Letztendlich haben wir es dann mit dieser Programmierung geschafft:
+Heute haben wir die Programmierung des Scorekeepers angefangen. Begonnen haben wir damit, diesen in das Spielfeld zu setzen - hierbei gab es viele Probleme. Dazu zählten, dass der *Score* weder angezeigt wurde noch sich verändert hat. Letztendlich haben wir es dann mit dieser Programmierung geschafft:
 
 ![Scorekeeper](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/sk%200.png)
 
-Wie man hier sehen kann, wird zu Beginn des Spiels im Score die Zahl *0* angezeigt. Der Score zeigt sich, sobald die Act-Methode ausgeführt wird. Wir haben die Ideen unseren Spiels verändert. Nun spielen die Player nicht mehr gegeneinander, sondern miteinander und versuchen einen möglichst kleinen "Fail-Score" zu erreichen. Der Ball darf also nicht in den Raum hinter die Spieler eintreten, da sich sonst der Score erhöht. 
+Wie man hier sehen kann, wird zu Beginn des Spiels im *Score* die Zahl *0* angezeigt. Der Score zeigt sich, sobald die Act-Methode ausgeführt wird. Wir haben die Ideen unseren Spiels verändert. Nun spielen die Player nicht mehr gegeneinander, sondern miteinander und versuchen, einen möglichst kleinen "Fail-Score" zu erreichen. Der Ball darf also nicht in den Raum hinter die Spieler eintreten, da sich sonst der *Score* erhöhen würde.
 
 ### <a name="einf26"></a> 03.04.2021
 
@@ -312,7 +306,7 @@ Als lezten Teil des Spiels haben wir die Erhöhung des Scores durch das Ausführ
 
 ![Erhöhung des Scores](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/ausf%C3%BChrungen%20score%20left%20und%20right.png)
 
-Danach haben wir alles bündig eingerückt und übersichtlich gestaltet. Zudem haben wir Kommentierungen eingefügt. Das fertiggstellte Spiel sieht kurz nach Spielbeginn so aus:
+Danach haben wir alles bündig eingerückt und übersichtlich gestaltet sowie Kommentierungen eingefügt. Das fertiggstellte Spiel sieht kurz nach Spielbeginn so aus:
 
 ![Fertiger Court](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/finished.png)
 
