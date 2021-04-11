@@ -58,6 +58,8 @@ Projektblog von Frederik Peters und Rebecca Scholz
 
 [09.04.2021](#einf27)
 
+[11.04.2021](#einf28)
+
 
 ## Beginn des Projektblogs
 
@@ -313,3 +315,7 @@ Danach haben wir alles bündig eingerückt und übersichtlich gestaltet sowie Ko
 ### <a name="einf27"></a> 09.04.2021
 
 Heute optimieren wir unseren Projektblog und schreiben unsere Projektseite.
+
+### <a name="einf28"></a> 11.04.2021
+
+Wir stellen heute die Projektseite fertig und geben unser Projekt ab.
