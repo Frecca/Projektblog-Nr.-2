@@ -265,13 +265,13 @@ Nun zeichnen auch die *Player* sich selbst.
 ![Größe der Player](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/zeichnung%20py%202.png)
 ![Court mit Playern](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/court.png)
 
-Des Weiteren haben wir auch eine Scorekeeper Klasse erstellt. In unserem Spiel soll oben eine *Score* Anzeige eingeblendet werden. Hierzu haben wir uns Gedanken gemacht, wie dies zu programmieren ist. 
-Mit der Hilfe von Herrn Buhl haben wir eine Verbindung vom *Ball* zum *Scorekeeper* hergestellt. Der Ball soll eine Nachricht an den *Scorekeeper* übermitteln, sobald ein Punkt erzielt wird. Der Score erhöht sich dementsprechend im seiner Punktzahl. 
+Des Weiteren haben wir auch eine ScoreKeeper Klasse erstellt. In unserem Spiel soll oben eine *Score* Anzeige eingeblendet werden. Hierzu haben wir uns Gedanken gemacht, wie dies zu programmieren ist. 
+Mit der Hilfe von Herrn Buhl haben wir eine Verbindung vom *Ball* zum *ScoreKeeper* hergestellt. Der Ball soll eine Nachricht an den *ScoreKeeper* übermitteln, sobald ein Punkt erzielt wird. Der Score erhöht sich dementsprechend im seiner Punktzahl. 
 Insgesamt haben wir nun folgende Klassen in unserem Spiel: 
 
 ![alles Klassen](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/klassen.png)
 
-Die Verbindungen vom *Ball* zum *Scorekeeper* werden im Court festgelgt und auch beim *Ball* definiert.
+Die Verbindungen vom *Ball* zum *ScoreKeeper* werden im Court festgelgt und auch beim *Ball* definiert.
 
 ![Verbindungen im Court](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/court%20sk%20ball.png)
 ![Ball und Scorekeeper](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/ball%20sk.png)
@@ -282,13 +282,13 @@ Um den Schwierigkeitsgrad des Spiels zu erhöhen, wollen wir die Geschwindigkeit
 
 ![Erhöhung der Geschwindigkeit](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/speed%20faster.png)
 
-Außerdem haben wir für die Übermittlung der Nachricht an den Scorekeeper einen Boolean definiert. Es wird eine Nachricht verschickt, sobald der *Ball* sich zwischen einem Spieler und der Außenwand befindet, sodass dieser sich im "Aus" befindet und der Gegenspieler einen Punkt erzielt. Der Scorekeeper erhöht dann den entsprechenden Punktestand.
+Außerdem haben wir für die Übermittlung der Nachricht an den ScoreKeeper einen Boolean definiert. Es wird eine Nachricht verschickt, sobald der *Ball* sich zwischen einem Spieler und der Außenwand befindet, sodass dieser sich im "Aus" befindet und der Gegenspieler einen Punkt erzielt. Der ScoreKeeper erhöht dann den entsprechenden Punktestand.
 
 ![Boolean](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/boolean.png)
 
 ### <a name="einf24"></a> 25.03.2021
 
-In der heutigen Stunde haben wir programmiert was passiert, wenn der Boolean wahr bzw. falsch ist. Wenn der Boolean wahr ist, wird der Ball auf die Startposition zurückgesetzt und es wird ein *Delay* eingefügt, sodass eine kurze Pause vor der erneuten Ballbewegung entsteht. Zusätzlich wird an den Scorekeeper eine Nachricht übermittelt, sodass dieser entweder die Methode *ScoreRight* oder *ScoreLeft* ausführt.
+In der heutigen Stunde haben wir programmiert was passiert, wenn der Boolean wahr bzw. falsch ist. Wenn der Boolean wahr ist, wird der Ball auf die Startposition zurückgesetzt und es wird ein *Delay* eingefügt, sodass eine kurze Pause vor der erneuten Ballbewegung entsteht. Zusätzlich wird an den ScoreKeeper eine Nachricht übermittelt, sodass dieser entweder die Methode *ScoreRight* oder *ScoreLeft* ausführt.
 
 ![Boolean](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/scoreR_L.png)
 
@@ -296,7 +296,7 @@ Wir hatten hier Probleme bei der Programmierung, da keine Nachricht versendet wu
 
 ### <a name="einf25"></a> 26.03.2021
 
-Heute haben wir die Programmierung des Scorekeepers angefangen. Begonnen haben wir damit, diesen in das Spielfeld zu setzen - hierbei gab es viele Probleme. Dazu zählten, dass der *Score* weder angezeigt wurde noch sich verändert hat. Letztendlich haben wir es dann mit dieser Programmierung geschafft:
+Heute haben wir die Programmierung des ScoreKeepers angefangen. Begonnen haben wir damit, diesen in das Spielfeld zu setzen - hierbei gab es viele Probleme. Dazu zählten, dass der *Score* weder angezeigt wurde noch sich verändert hat. Letztendlich haben wir es dann mit dieser Programmierung geschafft:
 
 ![Scorekeeper](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/sk%200.png)
 
@@ -304,7 +304,7 @@ Wie man hier sehen kann, wird zu Beginn des Spiels im *Score* die Zahl *0* angez
 
 ### <a name="einf26"></a> 03.04.2021
 
-Als lezten Teil des Spiels haben wir die Erhöhung des Scores durch das Ausführen des Scorekeepers von *ScoreLeft* und *ScoreRight* programmiert, sodass nun alles stimmig ist.
+Als lezten Teil des Spiels haben wir die Erhöhung des Scores durch das Ausführen des ScoreKeepers von *ScoreLeft* und *ScoreRight* programmiert, sodass nun alles stimmig ist.
 
 ![Erhöhung des Scores](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/ausf%C3%BChrungen%20score%20left%20und%20right.png)
 
