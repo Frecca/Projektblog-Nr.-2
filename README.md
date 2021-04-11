@@ -89,7 +89,7 @@ Heute planen wir unser Projekt. Dafür haben wir zunächst ein eigenes Szenario 
 
 ![eigenes Szneario](https://github.com/Frecca/Projektblog-Nr.-2/blob/main/Hippo.png)
 
-Danach haben wir uns auf ein Projekt festegelgt, welches wir programmieren möchten. Es handelt sich um ein Spiel für zwei Player, die gegeneinander antreten müssen. Das Spiel ist inspiriert an "Teletennis". Wir haben uns einen Überblick darüber verschafft, was wir alles programmieren müssen und wie wir unser Spiel gestalten wollen.
+Danach haben wir uns auf ein Projekt festgelegt, welches wir programmieren möchten. Es handelt sich um ein Spiel für zwei Player, die gegeneinander antreten müssen. Das Spiel ist inspiriert an "Teletennis". Wir haben uns einen Überblick darüber verschafft, was wir alles programmieren müssen und wie wir unser Spiel gestalten wollen.
 
 ### <a name="einf9"></a> 31.01.2021
 
@@ -135,7 +135,7 @@ Außerdem haben wir mit der Programmierung der Steuerung des ersten Spielers *Pl
 
 Beim letzten Mal hatten wir nach dem Speichern das Problem, dass der *Player_1* sich nicht mehr bewegen lassen hat und immer eine Fehlermeldung kam. Auf Grund dessen konnte kein Spieler mehr gesteuert werden. Wir haben heute den Fehler gefunden: Die Länge des *Player_1* war so weit dezimiert, dass er nicht mehr existiert hat. Wir haben die Größeneinstellung geändert. 
 Nach dieser Fehlerbehebung haben wir die Größen von *Player_1* und *Player_2* angepasst und den Ball auf eine passende Größe minimiert. 
-Des Weiteren haben wir eine neue Actorklasse eingefügt - die *Goals*, also den Bereich, der die Tore der Spieler darstellt. Diese sind farblich passend zum Spieler markiert, sodass die Zuordnung leicht erfolgen kann. In dem Code unserer Welt haben wir die *Player_1*, *Player_2*, den *Ball*, und die beiden *Goals* eingefügt, sodass diese schon von Beginn an in der Welt, also auf dem Spielfeld erscheinen. 
+Des Weiteren haben wir eine neue Actorklasse eingefügt - die *Goals*, also den Bereich, der die Tore der Spieler darstellt. Diese sind farblich passend zum Spieler markiert, sodass die Zuordnung leicht erfolgen kann. In dem Code unserer Welt haben wir die *Player_1*, *Player_2*, den *Ball*, und die beiden *Goals* eingefügt, sodass diese schon von Beginn an in der Welt, also auf dem Spielfeld, erscheinen. 
 
 Das Spielfeld sieht im Ruhezustand folgendermaßen aus:
 
@@ -221,7 +221,7 @@ Heute waren wir wieder in der Schule und haben Zwischenstand besprochen. Wir hab
 
 ### <a name="einf16"></a> 04.03.2021
 
-Wir haben heute mit Herrn Buhl Rücksprache gehalten bezüglich der Programmierung unseres Programmes. Dabei hat er uns Hinweise gegeben, was wir in der Art der Programmierung verändern müssen. Wir wollen die Programmierung, die im Court ist, auf die Spieler übertragen, sodass diese vom Court unabhängig ist und nicht mehr *public*, sondern *private* ist. Aus diesem Grund unterlassen wird das Programmieren von Soundeffekten.
+Wir haben heute mit Herrn Buhl Rücksprache bezüglich der Programmierung unseres Programmes gehalten. Dabei hat er uns Hinweise gegeben, was wir in der Art der Programmierung verändern müssen. Wir wollen die Programmierung, die im Court ist, auf die Spieler übertragen, sodass diese vom Court unabhängig ist und nicht mehr *public*, sondern *private* ist. Aus diesem Grund unterlassen wird das Programmieren von Soundeffekten.
 
 ### <a name="einf17"></a> 05.03.2021
 
